@@ -1,5 +1,5 @@
 title: My website
 description: Lab  3sb01
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
