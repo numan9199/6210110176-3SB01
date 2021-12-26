@@ -12,6 +12,6 @@ I am 3rd year computer engineering student at Prince of Songkla University
 
 
 contacts
-  - [email: 6210110690@psu.ac.th](mailto:6210110176@psu.ac.th)
-  - [github](https://github.com/HimRahim)
+  - [email: 6210110176@psu.ac.th](mailto:6210110176@psu.ac.th)
+  - [github](https://github.com/numan9199)
 
