@@ -4,7 +4,6 @@ layout: default
 
 ## Welcome to about me page
 
-![profile picture]
 
 My name is Numan Benabdulrosid Student ID 6210110176
 
