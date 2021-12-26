@@ -4,14 +4,14 @@ layout: default
 
 ## Welcome to about me page
 
-![profile picture](https://lh3.googleusercontent.com/proxy/xBOhUGDTBTxn0lRySTq3r30pNIkoJGULs5YlH7H9W3TG6v6omTyWDEYuU1FDvMJreUjIzhnl22Cgs62Npka57KCAwbWbUVoOSjbPYZthdlXLgAs28qxUq2JeYhadjS21qjF4InLRbv8vsLIptgY4OA)
+![profile picture]
 
-My name is Wanrahim Binwanrahimi Student ID 6210110690
+My name is Numan Benabdulrosid Student ID 6210110176
 
-I am 3rd year COE student at Prince of Songkla University
+I am 3rd year computer engineering student at Prince of Songkla University
 
 
 contacts
-  - [email: 6210110690@psu.ac.th](mailto:6210110690@psu.ac.th)
+  - [email: 6210110690@psu.ac.th](mailto:6210110176@psu.ac.th)
   - [github](https://github.com/HimRahim)
 
