@@ -63,6 +63,8 @@ flex layout จะมีความคล้ายคลึงกับ block l
   ```
   
   เมื่อลองพรีวิวดู ที่ viewport ขนาด 320x480 ก็จะได้หน้าตาแบบนี้
+  
+  
   ![preview picture](https://miro.medium.com/max/400/0*2rohhyyDY5JDNrq-.png)
   
   [Read more](https://medium.com/siamhtml/css-flexbox-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89-a2100b93efff)
